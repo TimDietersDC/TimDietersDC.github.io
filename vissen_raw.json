@@ -1,5 +1,5 @@
 {
- "opgehaald": "2026-11-22 14:25",
+ "opgehaald": "2026-11-23 17:06",
  "gd": [
   {
    "id": "gd-87913619",
@@ -3648,6 +3648,30 @@
    }
   },
   {
+   "id": "avw-siamese-algeneter",
+   "url": "https://aquariumvissenwinkel.nl/product/siamese-algeneter",
+   "naam": "Siamese Algeneter",
+   "categorie": "Algeneters",
+   "beschrijving": "Een actieve, stroomminnende algeneter met een zwarte lengtestreep tot in de staart. Samen met soortgenoten minder schuw, dus houd hem in een groep in een ruim aquarium.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/Siamese-Algeneter.jpg"
+   ],
+   "prijs": "3.50",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Crossocheilus langei",
+    "Herkomst": "Azië",
+    "Familie": "Cyprinidae",
+    "Lengte": "15 cm",
+    "Temperatuur": "25 °C",
+    "PH-waarde": "6.0 – 7.0",
+    "Dieet": "Omnivoor",
+    "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Middenonder",
+    "Aquarium": "150 cm of groter"
+   }
+  },
+  {
    "id": "avw-koperzalm",
    "url": "https://aquariumvissenwinkel.nl/product/koperzalm",
    "naam": "Koperzalm",
@@ -3720,30 +3744,6 @@
     "Waterlaag": "Midden",
     "Aquarium": "60 cm of groter",
     "Groep": "Minstens 6 samen"
-   }
-  },
-  {
-   "id": "avw-siamese-algeneter",
-   "url": "https://aquariumvissenwinkel.nl/product/siamese-algeneter",
-   "naam": "Siamese Algeneter",
-   "categorie": "Algeneters",
-   "beschrijving": "Een actieve, stroomminnende algeneter met een zwarte lengtestreep tot in de staart. Samen met soortgenoten minder schuw, dus houd hem in een groep in een ruim aquarium.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/Siamese-Algeneter.jpg"
-   ],
-   "prijs": "3.50",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Crossocheilus langei",
-    "Herkomst": "Azië",
-    "Familie": "Cyprinidae",
-    "Lengte": "15 cm",
-    "Temperatuur": "25 °C",
-    "PH-waarde": "6.0 – 7.0",
-    "Dieet": "Omnivoor",
-    "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Middenonder",
-    "Aquarium": "150 cm of groter"
    }
   },
   {
@@ -5420,6 +5420,30 @@
    }
   },
   {
+   "id": "avw-cichlide-mix",
+   "url": "https://aquariumvissenwinkel.nl/product/cichlide-mix",
+   "naam": "Cichlide Mix",
+   "categorie": "Cichliden",
+   "beschrijving": "Een kleurrijke mix van mbuna, rotsbewonende cichliden uit het Malawimeer. Pittig en territoriaal, dus alleen samen met andere mbuna, in een rotsrijk aquarium vanaf 100 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/cichlide-mix-1.jpeg"
+   ],
+   "prijs": "7.35",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Pseudotropheus sp. (mix)",
+    "Herkomst": "Afrika",
+    "Familie": "Cichlidae",
+    "Lengte": "12 cm",
+    "Temperatuur": "24 °C",
+    "PH-waarde": "7.0 – 8.0",
+    "Dieet": "Omnivoor",
+    "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Middenonder",
+    "Aquarium": "120 cm of groter"
+   }
+  },
+  {
    "id": "avw-kongozalm",
    "url": "https://aquariumvissenwinkel.nl/product/kongozalm",
    "naam": "Kongozalm",
@@ -6249,30 +6273,6 @@
    }
   },
   {
-   "id": "avw-cichlide-mix",
-   "url": "https://aquariumvissenwinkel.nl/product/cichlide-mix",
-   "naam": "Cichlide Mix",
-   "categorie": "Cichliden",
-   "beschrijving": "Een kleurrijke mix van mbuna, rotsbewonende cichliden uit het Malawimeer. Pittig en territoriaal, dus alleen samen met andere mbuna, in een rotsrijk aquarium vanaf 100 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/cichlide-mix-1.jpeg"
-   ],
-   "prijs": "7.35",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Pseudotropheus sp. (mix)",
-    "Herkomst": "Afrika",
-    "Familie": "Cichlidae",
-    "Lengte": "12 cm",
-    "Temperatuur": "24 °C",
-    "PH-waarde": "7.0 – 8.0",
-    "Dieet": "Omnivoor",
-    "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Middenonder",
-    "Aquarium": "120 cm of groter"
-   }
-  },
-  {
    "id": "avw-regenboogvis-praecox",
    "url": "https://aquariumvissenwinkel.nl/product/regenboogvis-praecox",
    "naam": "Regenboogvis Praecox",
@@ -6450,7 +6450,7 @@
    "categorie": "Cichliden",
    "beschrijving": "Feloranje van kop tot staart en thuis in rotsspleten. Tegen soortgenoten is de leleupi fel territoriaal, dus houd één paar in een Tanganyikabak vanaf 80 cm.",
    "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/images_1.jpeg"
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/lamprologus-leleupi-orange.png"
    ],
    "prijs": "9.00",
    "voorraad": "InStock",
@@ -7079,6 +7079,30 @@
    }
   },
   {
+   "id": "avw-hypostomus-plecostomus-gold",
+   "url": "https://aquariumvissenwinkel.nl/product/hypostomus-plecostomus-gold",
+   "naam": "Hypostomus Plecostomus Gold",
+   "categorie": "Algeneters",
+   "beschrijving": "Een goudkleurige pleco die flink doorgroeit, tot 35 cm. Jong nog bescheiden, volwassen woelt hij de bak om; niet met andere harnasmeervallen, vanaf 120 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/hypostomus-plecostomus-gold.jpeg"
+   ],
+   "prijs": "8.40",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Hypostomus plecostomus",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Loricariidae",
+    "Lengte": "35 cm",
+    "Temperatuur": "24 °C",
+    "PH-waarde": "6.5 – 8.0",
+    "Dieet": "Herbivoor",
+    "Voeding": "Algen, Bodemvuil, Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Bodem",
+    "Aquarium": "150 cm of groter"
+   }
+  },
+  {
    "id": "avw-lichtvisje",
    "url": "https://aquariumvissenwinkel.nl/product/lichtvisje",
    "naam": "Lichtvisje",
@@ -7218,30 +7242,6 @@
     "Samenstelling": "Gemengd",
     "Merk": "Sera",
     "Inhoud": "100 ml"
-   }
-  },
-  {
-   "id": "avw-hypostomus-plecostomus-gold",
-   "url": "https://aquariumvissenwinkel.nl/product/hypostomus-plecostomus-gold",
-   "naam": "Hypostomus Plecostomus Gold",
-   "categorie": "Algeneters",
-   "beschrijving": "Een goudkleurige pleco die flink doorgroeit, tot 35 cm. Jong nog bescheiden, volwassen woelt hij de bak om; niet met andere harnasmeervallen, vanaf 120 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/hypostomus-plecostomus-gold.jpeg"
-   ],
-   "prijs": "8.40",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Hypostomus plecostomus",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Loricariidae",
-    "Lengte": "35 cm",
-    "Temperatuur": "24 °C",
-    "PH-waarde": "6.5 – 8.0",
-    "Dieet": "Herbivoor",
-    "Voeding": "Algen, Bodemvuil, Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Bodem",
-    "Aquarium": "150 cm of groter"
    }
   },
   {
@@ -8988,6 +8988,21 @@
    }
   },
   {
+   "id": "avw-esha-2000",
+   "url": "https://aquariumvissenwinkel.nl/product/esha-2000",
+   "naam": "eSHa 2000",
+   "categorie": "Vismedicijnen",
+   "beschrijving": "Breed middel van eSHa tegen schimmel, vinrot, bacteriële huidinfecties en huid- en kieuwparasieten in zoetwater.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/esha_2000.jpg"
+   ],
+   "prijs": "9.49",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Merk": "eSHa"
+   }
+  },
+  {
    "id": "avw-neon-tetra-voordeelset-10-stuks",
    "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
    "naam": "Neon Tetra Voordeelset 10 Stuks",
@@ -9598,21 +9613,6 @@
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/esha_gdex-1.jpg"
    ],
    "prijs": "12.50",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Merk": "eSHa"
-   }
-  },
-  {
-   "id": "avw-esha-2000",
-   "url": "https://aquariumvissenwinkel.nl/product/esha-2000",
-   "naam": "eSHa 2000",
-   "categorie": "Vismedicijnen",
-   "beschrijving": "Breed middel van eSHa tegen schimmel, vinrot, bacteriële huidinfecties en huid- en kieuwparasieten in zoetwater.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/esha_2000.jpg"
-   ],
-   "prijs": "9.49",
    "voorraad": "InStock",
    "eigenschappen": {
     "Merk": "eSHa"
@@ -12044,7 +12044,7 @@
   }
  ],
  "gd_opgehaald": "2026-11-11 16:47",
- "avw_opgehaald": "2026-11-22 14:25",
+ "avw_opgehaald": "2026-11-23 17:06",
  "logboek": [
   {
    "datum": "2026-11-22 14:25",
