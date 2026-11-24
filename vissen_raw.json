@@ -1,5 +1,5 @@
 {
- "opgehaald": "2026-11-23 17:06",
+ "opgehaald": "2026-11-24 16:57",
  "gd": [
   {
    "id": "gd-87913619",
@@ -4022,7 +4022,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/prachtvin-algeneter",
    "naam": "Prachtvin Algeneter",
    "categorie": "Algeneters",
-   "beschrijving": "Deze flying fox graast ijverig algen van stenen en hout. Hij wordt met de jaren territoriaal: houd er één, niet met gelijkende soorten, in een bak vanaf 100 cm.",
+   "beschrijving": "Deze flying fox graast ijverig algen van stenen en hout. Hij wordt met de jaren territoriaal: houd er één, niet met gelijkende soorten, in een bak vanaf 120 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/prachtvin-algeneter.png"
    ],
@@ -4264,6 +4264,32 @@
    }
   },
   {
+   "id": "avw-corydoras-panda",
+   "url": "https://aquariumvissenwinkel.nl/product/corydoras-panda",
+   "naam": "Corydoras Panda",
+   "categorie": "Corydoras",
+   "beschrijving": "Zwarte vlekken rond de ogen en op de staartwortel, net een panda. Dit vreedzame bodemvisje scharrelt het liefst met minstens 6 soortgenoten, in een bak vanaf 80 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/01/ChatGPT-Image-15-jan-2026-09_31_57.png",
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/01/Corydora-panda-groep.png"
+   ],
+   "prijs": "8.15",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Hoplisoma panda, voorheen Corydoras panda",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Callichthyidae",
+    "Lengte": "5 cm",
+    "Temperatuur": "23,5 °C",
+    "PH-waarde": "6.5 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Bodemvuil, Diepvriesvoer, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Bodem",
+    "Aquarium": "80 cm of groter",
+    "Groep": "Minstens 6 samen"
+   }
+  },
+  {
    "id": "avw-keizertetra-blauw",
    "url": "https://aquariumvissenwinkel.nl/product/keizertetra-blauw",
    "naam": "Keizertetra Blauw",
@@ -4343,7 +4369,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/platy-bumble-bee",
    "naam": "Platy Bumble Bee",
    "categorie": "Platies",
-   "beschrijving": "Zwart en geel als een hommel: dat is de Bumble Bee platy. Hij doet het goed in middelhard tot hard water, met meer vrouwtjes dan mannetjes, in een bak vanaf 80 cm.",
+   "beschrijving": "Zwart en geel als een hommel: dat is de Bumble Bee platy. Hij doet het goed in middelhard tot hard water, met meer vrouwtjes dan mannetjes, in een bak vanaf 60 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/06/platy-bumble-bee.png"
    ],
@@ -4409,32 +4435,6 @@
     "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Middenonder",
     "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-corydoras-panda",
-   "url": "https://aquariumvissenwinkel.nl/product/corydoras-panda",
-   "naam": "Corydoras Panda",
-   "categorie": "Corydoras",
-   "beschrijving": "Zwarte vlekken rond de ogen en op de staartwortel, net een panda. Dit vreedzame bodemvisje scharrelt het liefst met minstens 6 soortgenoten, in een bak vanaf 80 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/01/ChatGPT-Image-15-jan-2026-09_31_57.png",
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/01/Corydora-panda-groep.png"
-   ],
-   "prijs": "8.15",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Hoplisoma panda, voorheen Corydoras panda",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Callichthyidae",
-    "Lengte": "5 cm",
-    "Temperatuur": "23,5 °C",
-    "PH-waarde": "6.5 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Bodemvuil, Diepvriesvoer, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Bodem",
-    "Aquarium": "80 cm of groter",
-    "Groep": "Minstens 6 samen"
    }
   },
   {
@@ -4617,7 +4617,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/hypostomus-plecostomus",
    "naam": "Hypostomus Plecostomus",
    "categorie": "Algeneters",
-   "beschrijving": "De klassieke zuigmeerval: overdag verstopt tussen hout, ’s nachts op zoek naar voer. Hij groeit tot 35 cm en domineert dan de bak, dus reken op een bak vanaf 120 cm.",
+   "beschrijving": "De klassieke zuigmeerval: overdag verstopt tussen hout, ’s nachts op zoek naar voer. Hij groeit tot 35 cm en domineert dan de bak, dus reken op een bak vanaf 150 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/09/hypostomus-plecostomus.png"
    ],
@@ -4787,7 +4787,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis",
    "naam": "Maanvis",
    "categorie": "Maanvissen",
-   "beschrijving": "Met zijn hoge, driehoekige silhouet en lange vinnen is de maanvis een klassieker. Deze cichlide eet kleine visjes zoals neons en wil een hoog aquarium vanaf 90 cm.",
+   "beschrijving": "Met zijn hoge, driehoekige silhouet en lange vinnen is de maanvis een klassieker. Deze cichlide eet kleine visjes zoals neons en wil een hoog aquarium vanaf 100 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/maanvis.jpg"
    ],
@@ -5000,6 +5000,30 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Middenboven",
     "Aquarium": "80 cm of groter"
+   }
+  },
+  {
+   "id": "avw-diamant-gourami-pair",
+   "url": "https://aquariumvissenwinkel.nl/product/diamant-gourami-pair",
+   "naam": "Diamant Gourami",
+   "categorie": "Labyrintvissen",
+   "beschrijving": "Een parelmoerglans van talloze lichte stippen maakt deze goerami bijzonder. Een van de vreedzaamste goerami’s, voor een beplant aquarium vanaf 90 cm met schuilplekken.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/diamant-gourami-pair.png"
+   ],
+   "prijs": "8.40",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Trichopodus leerii",
+    "Herkomst": "Azië",
+    "Familie": "Osphronemidae",
+    "Lengte": "12 cm",
+    "Temperatuur": "25 °C",
+    "PH-waarde": "6.5 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "90 cm of groter"
    }
   },
   {
@@ -5252,7 +5276,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/knor-gourami",
    "naam": "Knorgourami",
    "categorie": "Labyrintvissen",
-   "beschrijving": "Een dwerggoerami van 4 cm die zachte knorgeluiden maakt. Houd er minstens 2 samen, met rustige en even kleine medebewoners, in een aquarium vanaf 80 cm.",
+   "beschrijving": "Een dwerggoerami van 4 cm die zachte knorgeluiden maakt. Houd er minstens 2 samen, met rustige en even kleine medebewoners, in een aquarium vanaf 60 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/knor-gourami-1.png"
    ],
@@ -5294,30 +5318,6 @@
     "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Middenboven",
     "Aquarium": "100 cm of groter"
-   }
-  },
-  {
-   "id": "avw-diamant-gourami-pair",
-   "url": "https://aquariumvissenwinkel.nl/product/diamant-gourami-pair",
-   "naam": "Diamant Gourami",
-   "categorie": "Labyrintvissen",
-   "beschrijving": "Een parelmoerglans van talloze lichte stippen maakt deze goerami bijzonder. Een van de vreedzaamste goerami’s, voor een beplant aquarium vanaf 80 cm met schuilplekken.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/diamant-gourami-pair.png"
-   ],
-   "prijs": "8.40",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Trichopodus leerii",
-    "Herkomst": "Azië",
-    "Familie": "Osphronemidae",
-    "Lengte": "12 cm",
-    "Temperatuur": "25 °C",
-    "PH-waarde": "6.5 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "90 cm of groter"
    }
   },
   {
@@ -5424,7 +5424,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/cichlide-mix",
    "naam": "Cichlide Mix",
    "categorie": "Cichliden",
-   "beschrijving": "Een kleurrijke mix van mbuna, rotsbewonende cichliden uit het Malawimeer. Pittig en territoriaal, dus alleen samen met andere mbuna, in een rotsrijk aquarium vanaf 100 cm.",
+   "beschrijving": "Een kleurrijke mix van mbuna, rotsbewonende cichliden uit het Malawimeer. Pittig en territoriaal, dus alleen samen met andere mbuna, in een rotsrijk aquarium vanaf 120 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/cichlide-mix-1.jpeg"
    ],
@@ -6082,7 +6082,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/platy-blauw",
    "naam": "Platy Blauw",
    "categorie": "Platies",
-   "beschrijving": "Een platy met een blauwachtig kleurpatroon, vreedzaam en makkelijk te houden. Hij plant zich vlot voort en past in een gezelschapsaquarium vanaf 80 cm.",
+   "beschrijving": "Een platy met een blauwachtig kleurpatroon, vreedzaam en makkelijk te houden. Hij plant zich vlot voort en past in een gezelschapsaquarium vanaf 60 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/06/Xiphophorus-maculatus-blue-Platy-blauw.jpg"
    ],
@@ -6106,7 +6106,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-gold",
    "naam": "Maanvis Gold",
    "categorie": "Maanvissen",
-   "beschrijving": "Goudgeel van kop tot staart: de Maanvis Gold is een klassieke kweekvorm van de scalare. Hij wordt tot 15 cm en wil een hoog aquarium vanaf 90 cm, zonder kleine visjes.",
+   "beschrijving": "Goudgeel van kop tot staart: de Maanvis Gold is een klassieke kweekvorm van de scalare. Hij wordt tot 15 cm en wil een hoog aquarium vanaf 100 cm, zonder kleine visjes.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/maanvis_gold.jpg"
    ],
@@ -6253,7 +6253,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/platy-koraal",
    "naam": "Platy Koraal",
    "categorie": "Platies",
-   "beschrijving": "Een warmrode platy in koraaltint, vreedzaam en makkelijk te houden. Ook voor beginners een goede keuze, in een aquarium vanaf 80 cm.",
+   "beschrijving": "Een warmrode platy in koraaltint, vreedzaam en makkelijk te houden. Ook voor beginners een goede keuze, in een aquarium vanaf 60 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/06/Platy-koraal.jpg"
    ],
@@ -6375,7 +6375,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-leopard",
    "naam": "Maanvis Leopard",
    "categorie": "Maanvissen",
-   "beschrijving": "Donkere stippen over het hele lijf geven de Maanvis Leopard een gevlekt uiterlijk. Houd hem in een hoog aquarium vanaf 90 cm, zonder kleine visjes die als prooi kunnen dienen.",
+   "beschrijving": "Donkere stippen over het hele lijf geven de Maanvis Leopard een gevlekt uiterlijk. Houd hem in een hoog aquarium vanaf 100 cm, zonder kleine visjes die als prooi kunnen dienen.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/leopard-angelfish-photo-300x225_6.jpg"
    ],
@@ -6840,7 +6840,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-mix",
    "naam": "Maanvis Mix.",
    "categorie": "Maanvissen",
-   "beschrijving": "Maanvissen in verschillende kleuren, allemaal met het bekende hoge, driehoekige silhouet. Kleine visjes zoals neons zien ze als prooi; kies een hoog aquarium vanaf 90 cm.",
+   "beschrijving": "Maanvissen in verschillende kleuren, allemaal met het bekende hoge, driehoekige silhouet. Kleine visjes zoals neons zien ze als prooi; kies een hoog aquarium vanaf 100 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/scalare_mix_maanvis.jpg"
    ],
@@ -6864,7 +6864,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-marble",
    "naam": "Maanvis Marble",
    "categorie": "Maanvissen",
-   "beschrijving": "Grillige zwart-witte marmering maakt elke Maanvis Marble net even anders. Deze rustige cichlide wil een hoog aquarium vanaf 90 cm, met medebewoners die te groot zijn om op te eten.",
+   "beschrijving": "Grillige zwart-witte marmering maakt elke Maanvis Marble net even anders. Deze rustige cichlide wil een hoog aquarium vanaf 100 cm, met medebewoners die te groot zijn om op te eten.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/maanvis-marble-1.jpeg"
    ],
@@ -7521,7 +7521,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/labidochromis-hongi-red-top",
    "naam": "Labidochromis Hongi Red Top",
    "categorie": "Cichliden",
-   "beschrijving": "Mannen tonen een blauw lijf met een oranjerode rug, vandaar Red Top. Een vrij territoriale mbuna: een man met meerdere vrouwtjes, in een Malawibak vanaf 80 cm.",
+   "beschrijving": "Mannen tonen een blauw lijf met een oranjerode rug, vandaar Red Top. Een vrij territoriale mbuna: een man met meerdere vrouwtjes, in een Malawibak vanaf 120 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/labidochromis-hongi-red-top.jpeg"
    ],
@@ -7765,7 +7765,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/albino-labeo",
    "naam": "Albino Labeo",
    "categorie": "Barbelen",
-   "beschrijving": "Een wit tot roze lijf met rode vinnen maakt deze labeo goed zichtbaar. Met de jaren wordt hij fel territoriaal, dus houd er één, in een aquarium vanaf 100 cm.",
+   "beschrijving": "Een wit tot roze lijf met rode vinnen maakt deze labeo goed zichtbaar. Met de jaren wordt hij fel territoriaal, dus houd er één, in een aquarium vanaf 120 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/albino.png"
    ],
@@ -8101,7 +8101,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/hypostomus-plecostomus-gold-stripe",
    "naam": "Hypostomus Plecostomus Gold Stripe",
    "categorie": "Algeneters",
-   "beschrijving": "Een grote harnasmeerval die tot 35 cm kan worden en ’s nachts actief is. Volwassen neemt hij de bak flink in beslag, dus reken op een aquarium vanaf 180 cm met hout.",
+   "beschrijving": "Een grote harnasmeerval die tot 35 cm kan worden en ’s nachts actief is. Volwassen neemt hij de bak flink in beslag, dus reken op een aquarium vanaf 150 cm met hout.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/hypostomus-plecostomus-gold-stripe.jpeg"
    ],
@@ -8377,6 +8377,30 @@
     "Voeding": "Bodemvuil, Diepvriesvoer, Granulaat",
     "Waterlaag": "Bodem",
     "Aquarium": "60 cm of groter"
+   }
+  },
+  {
+   "id": "avw-neon-tetra-voordeelset-10-stuks",
+   "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
+   "naam": "Neon Tetra Voordeelset 10 Stuks",
+   "categorie": "Tetra's",
+   "beschrijving": "Een blauwe lichtstreep met rood op de achterste helft: de neontetra is een van de bekendste scholenvissen. Met deze voordeelset heb je meteen een complete groep, voor een aquarium vanaf 80 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/neon-tetra-innesi.png"
+   ],
+   "prijs": "12.50",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Paracheirodon innesi",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Acestrorhamphidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "6.0 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "80 cm of groter"
    }
   },
   {
@@ -8806,7 +8830,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-isr-blushing-red-head",
    "naam": "Maanvis Isr Blushing Red Head",
    "categorie": "Maanvissen",
-   "beschrijving": "Doorschijnende kieuwdeksels en een rode kop maken deze Israëlische kweekvorm herkenbaar. Een maanvis vraagt een hoog aquarium vanaf 90 cm en past niet bij kleine visjes.",
+   "beschrijving": "Doorschijnende kieuwdeksels en een rode kop maken deze Israëlische kweekvorm herkenbaar. Een maanvis vraagt een hoog aquarium vanaf 100 cm en past niet bij kleine visjes.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/pterophyllum_scalare_redhead_ghost_1.jpg"
    ],
@@ -9003,30 +9027,6 @@
    }
   },
   {
-   "id": "avw-neon-tetra-voordeelset-10-stuks",
-   "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
-   "naam": "Neon Tetra Voordeelset 10 Stuks",
-   "categorie": "Tetra's",
-   "beschrijving": "Een blauwe lichtstreep met rood op de achterste helft: de neontetra is een van de bekendste scholenvissen. Met deze voordeelset heb je meteen een complete groep, voor een aquarium vanaf 80 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/neon-tetra-innesi.png"
-   ],
-   "prijs": "12.50",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Paracheirodon innesi",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Acestrorhamphidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "6.0 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "80 cm of groter"
-   }
-  },
-  {
    "id": "avw-rubber-pleco",
    "url": "https://aquariumvissenwinkel.nl/product/rubber-pleco",
    "naam": "Rubber Pleco",
@@ -9177,7 +9177,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-koi",
    "naam": "Maanvis Koi",
    "categorie": "Maanvissen",
-   "beschrijving": "Vlekken in wit, oranje en zwart geven de Maanvis Koi zijn naam. Een rustige cichlide voor een hoog aquarium vanaf 90 cm, maar niet samen met neons of andere kleine visjes.",
+   "beschrijving": "Vlekken in wit, oranje en zwart geven de Maanvis Koi zijn naam. Een rustige cichlide voor een hoog aquarium vanaf 100 cm, maar niet samen met neons of andere kleine visjes.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/maanvis_koi_1.jpg"
    ],
@@ -10186,7 +10186,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/aardbei-rasbora",
    "naam": "Aardbei Rasbora",
    "categorie": "Rasbora",
-   "beschrijving": "Piepklein visje van 2 cm met donkere vlekken op het lijf. Houd er minstens tien in een rustige, beplante bak vanaf 45 cm.",
+   "beschrijving": "Piepklein visje van 2 cm met donkere vlekken op het lijf. Houd er minstens tien in een rustige, beplante bak vanaf 50 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/aardbei-rasbora.png"
    ],
@@ -10629,7 +10629,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/choco-garnaal",
    "naam": "Choco Garnaal",
    "categorie": "Garnalen",
-   "beschrijving": "Diepbruine dwerggarnaal van 4 cm, dezelfde soort als de kersgarnaal en net zo makkelijk te houden. Neem ze in een groep van 10 stuks in een bak vanaf 60 cm.",
+   "beschrijving": "Diepbruine dwerggarnaal van 4 cm, dezelfde soort als de kersgarnaal en net zo makkelijk te houden. Neem ze in een groep van 10 stuks in een bak vanaf 40 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/09/choco-garnaal.jpg"
    ],
@@ -11218,7 +11218,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/maanvis-gold-diamond",
    "naam": "Maanvis Gold Diamond",
    "categorie": "Maanvissen",
-   "beschrijving": "Een goudglanzende maanvis met een statig, hoog lijf. Hij wordt tot 15 cm en eet kleine visjes zoals neons, dus kies een hoog aquarium vanaf 90 cm.",
+   "beschrijving": "Een goudglanzende maanvis met een statig, hoog lijf. Hij wordt tot 15 cm en eet kleine visjes zoals neons, dus kies een hoog aquarium vanaf 100 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/gold_0020_diamond_s_m_2.jpg"
    ],
@@ -11363,7 +11363,7 @@
    "url": "https://aquariumvissenwinkel.nl/product/var-white-garnaal",
    "naam": "Var White Garnaal",
    "categorie": "Garnalen",
-   "beschrijving": "Helderwit van kop tot staart valt deze garnaal op tegen groene planten en een donkere bodem. Houd een groep van minstens 10 in een aquarium vanaf 60 cm.",
+   "beschrijving": "Helderwit van kop tot staart valt deze garnaal op tegen groene planten en een donkere bodem. Houd een groep van minstens 10 in een aquarium vanaf 40 cm.",
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/09/var-white-garnaal.png"
    ],
@@ -12044,7 +12044,7 @@
   }
  ],
  "gd_opgehaald": "2026-11-11 16:47",
- "avw_opgehaald": "2026-11-23 17:06",
+ "avw_opgehaald": "2026-11-24 16:57",
  "logboek": [
   {
    "datum": "2026-11-22 14:25",
