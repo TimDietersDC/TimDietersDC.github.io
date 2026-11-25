@@ -1,3 +1,3 @@
-# TimDieters.github.io
+# TimDietersDC.github.io
 
 Claud code skitzo troep

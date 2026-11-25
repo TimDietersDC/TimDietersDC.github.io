@@ -186,7 +186,7 @@ def stuur_melding(w):
 
 
 def verstuur(titel, tekst):
-    site = os.environ.get("VISSEN_URL", "https://timdieters.github.io/")
+    site = os.environ.get("VISSEN_URL", "https://timdietersdc.github.io/")
     stuur_webpush(titel, tekst, site)
     onderwerp = os.environ.get("NTFY_TOPIC", "").strip()
     if onderwerp:  # optioneel: ook via de ntfy-app
@@ -230,7 +230,7 @@ def stuur_webpush(titel, tekst, site):
         print("Webpush: lijst met abonnees ophalen mislukt:", e)
         return
     # Pushdiensten eisen een contactadres van de afzender; dit is het anonieme GitHub-adres.
-    contact = os.environ.get("VAPID_CONTACT", "mailto:TimDieters@users.noreply.github.com")
+    contact = os.environ.get("VAPID_CONTACT", "mailto:TimDietersDC@users.noreply.github.com")
     bericht = json.dumps({"title": titel, "body": tekst, "url": site})
     gelukt, verlopen = 0, []
     for abonnee in abonnees:

@@ -4,7 +4,7 @@
 // Nodig in Cloudflare (Settings van deze Worker):
 //   - KV-binding met de naam  SUBS
 //   - secret   ADMIN_TOKEN     (zelfde waarde als het GitHub-secret PUSH_ADMIN_TOKEN)
-//   - variable ALLOWED_ORIGIN  https://timdieters.github.io
+//   - variable ALLOWED_ORIGIN  https://timdietersdc.github.io
 
 const MAX_AANMELDINGEN = 500;
 
@@ -34,7 +34,7 @@ async function verwerk(request, env) {
   {
     const url = new URL(request.url);
     const origin = request.headers.get("Origin") || "";
-    const toegestaan = env.ALLOWED_ORIGIN || "https://timdieters.github.io";
+    const toegestaan = env.ALLOWED_ORIGIN || "https://timdietersdc.github.io";
     const cors = {
       "Access-Control-Allow-Origin": toegestaan,
       "Access-Control-Allow-Methods": "POST, OPTIONS",
