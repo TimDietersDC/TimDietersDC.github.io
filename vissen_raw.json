@@ -1,5 +1,5 @@
 {
- "opgehaald": "2026-11-24 16:57",
+ "opgehaald": "2026-11-25 16:43",
  "gd": [
   {
    "id": "gd-87913619",
@@ -3573,6 +3573,31 @@
    }
   },
   {
+   "id": "avw-koperzalm",
+   "url": "https://aquariumvissenwinkel.nl/product/koperzalm",
+   "naam": "Koperzalm",
+   "categorie": "Zalmen",
+   "beschrijving": "Een koperkleurig lijf met witte vinpunten maakt dit kleine zalmpje herkenbaar. In een groep van minstens 6 blijft hij vreedzaam, in een aquarium vanaf 80 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/koperzalm-1.png"
+   ],
+   "prijs": "2.00",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Hasemania nana",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Acestrorhamphidae",
+    "Lengte": "5 cm",
+    "Temperatuur": "24,5 °C",
+    "PH-waarde": "6.5 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Midden",
+    "Aquarium": "80 cm of groter",
+    "Groep": "Minstens 6 samen"
+   }
+  },
+  {
    "id": "avw-kegelvlek-espei",
    "url": "https://aquariumvissenwinkel.nl/product/kegelvlek-espei",
    "naam": "Kegelvlek Espei",
@@ -3669,31 +3694,6 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer",
     "Waterlaag": "Middenonder",
     "Aquarium": "150 cm of groter"
-   }
-  },
-  {
-   "id": "avw-koperzalm",
-   "url": "https://aquariumvissenwinkel.nl/product/koperzalm",
-   "naam": "Koperzalm",
-   "categorie": "Zalmen",
-   "beschrijving": "Een koperkleurig lijf met witte vinpunten maakt dit kleine zalmpje herkenbaar. In een groep van minstens 6 blijft hij vreedzaam, in een aquarium vanaf 80 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/koperzalm-1.png"
-   ],
-   "prijs": "2.00",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Hasemania nana",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Acestrorhamphidae",
-    "Lengte": "5 cm",
-    "Temperatuur": "24,5 °C",
-    "PH-waarde": "6.5 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Midden",
-    "Aquarium": "80 cm of groter",
-    "Groep": "Minstens 6 samen"
    }
   },
   {
@@ -3896,6 +3896,31 @@
    }
   },
   {
+   "id": "avw-rode-rio",
+   "url": "https://aquariumvissenwinkel.nl/product/rode-rio",
+   "naam": "Rode Rio",
+   "categorie": "Tetra's",
+   "beschrijving": "Zilverig voorlijf, vuurrood naar achteren en twee donkere streepjes achter de kieuw. De Rode Rio is zeer vreedzaam in een groep van minstens 8, vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/Rode-Rio.jpg"
+   ],
+   "prijs": "1.70",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Hyphessobrycon flammeus",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Acestrorhamphidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "24 °C",
+    "PH-waarde": "6.5 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Midden",
+    "Aquarium": "60 cm of groter",
+    "Groep": "Minstens 8 samen"
+   }
+  },
+  {
    "id": "avw-dwerg-kogelvis",
    "url": "https://aquariumvissenwinkel.nl/product/dwerg-kogelvis",
    "naam": "Dwerg Kogelvis",
@@ -3941,31 +3966,6 @@
     "Voeding": "Algen, Bodemvuil, Granulaat",
     "Waterlaag": "Bodem",
     "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-rode-rio",
-   "url": "https://aquariumvissenwinkel.nl/product/rode-rio",
-   "naam": "Rode Rio",
-   "categorie": "Tetra's",
-   "beschrijving": "Zilverig voorlijf, vuurrood naar achteren en twee donkere streepjes achter de kieuw. De Rode Rio is zeer vreedzaam in een groep van minstens 8, vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/Rode-Rio.jpg"
-   ],
-   "prijs": "1.70",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Hyphessobrycon flammeus",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Acestrorhamphidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "24 °C",
-    "PH-waarde": "6.5 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Midden",
-    "Aquarium": "60 cm of groter",
-    "Groep": "Minstens 8 samen"
    }
   },
   {
@@ -4239,6 +4239,31 @@
    }
   },
   {
+   "id": "avw-sewellia-lineolata-algeneter",
+   "url": "https://aquariumvissenwinkel.nl/product/sewellia-lineolata-algeneter",
+   "naam": "Sewellia Lineolata Algeneter",
+   "categorie": "Algeneters",
+   "beschrijving": "Plat als een vlinder zuigt deze Saigon-algeneter zich vast op stenen in de stroming. Houd een groep van minstens 6 in een ingedraaid, zuurstofrijk aquarium vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/Algeneter-Saigon.png"
+   ],
+   "prijs": "15.60",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Sewellia lineolata",
+    "Herkomst": "Azië",
+    "Familie": "Gastromyzontidae",
+    "Lengte": "6.5 cm",
+    "Temperatuur": "22,5 °C",
+    "PH-waarde": "6.5 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Algen, Diepvriesvoer, Levend voer",
+    "Waterlaag": "Bodem",
+    "Aquarium": "60 cm of groter",
+    "Groep": "Minstens 6 samen"
+   }
+  },
+  {
    "id": "avw-otocinclus",
    "url": "https://aquariumvissenwinkel.nl/product/otocinclus",
    "naam": "Otocinclus",
@@ -4386,31 +4411,6 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Middenboven",
     "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-sewellia-lineolata-algeneter",
-   "url": "https://aquariumvissenwinkel.nl/product/sewellia-lineolata-algeneter",
-   "naam": "Sewellia Lineolata Algeneter",
-   "categorie": "Algeneters",
-   "beschrijving": "Plat als een vlinder zuigt deze Saigon-algeneter zich vast op stenen in de stroming. Houd een groep van minstens 6 in een ingedraaid, zuurstofrijk aquarium vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/Algeneter-Saigon.png"
-   ],
-   "prijs": "15.60",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Sewellia lineolata",
-    "Herkomst": "Azië",
-    "Familie": "Gastromyzontidae",
-    "Lengte": "6.5 cm",
-    "Temperatuur": "22,5 °C",
-    "PH-waarde": "6.5 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Algen, Diepvriesvoer, Levend voer",
-    "Waterlaag": "Bodem",
-    "Aquarium": "60 cm of groter",
-    "Groep": "Minstens 6 samen"
    }
   },
   {
@@ -5003,6 +5003,31 @@
    }
   },
   {
+   "id": "avw-otocinclus-arnoldi",
+   "url": "https://aquariumvissenwinkel.nl/product/otocinclus-arnoldi",
+   "naam": "Otocinclus Arnoldi",
+   "categorie": "Algeneters",
+   "beschrijving": "Kleine, vreedzame harnasmeerval die algen van bladeren, glas en hout graast. Houd minstens zes samen in een rijp, goed beplant aquarium.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/10/otocinclus-arnoldi.png"
+   ],
+   "prijs": "3.40",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Otocinclus arnoldi",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Loricariidae",
+    "Lengte": "5 cm",
+    "Temperatuur": "22,5 °C",
+    "PH-waarde": "6.0 – 7.0",
+    "Dieet": "Herbivoor",
+    "Voeding": "Algen, Planten, Granulaat",
+    "Waterlaag": "Bodem",
+    "Aquarium": "60 cm of groter",
+    "Groep": "Minstens 6 samen"
+   }
+  },
+  {
    "id": "avw-diamant-gourami-pair",
    "url": "https://aquariumvissenwinkel.nl/product/diamant-gourami-pair",
    "naam": "Diamant Gourami",
@@ -5366,31 +5391,6 @@
     "Dieet": "Omnivoor",
     "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Zwarte muggenlarven",
     "Waterlaag": "Midden",
-    "Aquarium": "60 cm of groter",
-    "Groep": "Minstens 6 samen"
-   }
-  },
-  {
-   "id": "avw-otocinclus-arnoldi",
-   "url": "https://aquariumvissenwinkel.nl/product/otocinclus-arnoldi",
-   "naam": "Otocinclus Arnoldi",
-   "categorie": "Algeneters",
-   "beschrijving": "Kleine, vreedzame harnasmeerval die algen van bladeren, glas en hout graast. Houd minstens zes samen in een rijp, goed beplant aquarium.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/10/otocinclus-arnoldi.png"
-   ],
-   "prijs": "3.40",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Otocinclus arnoldi",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Loricariidae",
-    "Lengte": "5 cm",
-    "Temperatuur": "22,5 °C",
-    "PH-waarde": "6.0 – 7.0",
-    "Dieet": "Herbivoor",
-    "Voeding": "Algen, Planten, Granulaat",
-    "Waterlaag": "Bodem",
     "Aquarium": "60 cm of groter",
     "Groep": "Minstens 6 samen"
    }
@@ -5857,6 +5857,31 @@
    }
   },
   {
+   "id": "avw-slakkenetende-slak",
+   "url": "https://aquariumvissenwinkel.nl/product/slakkenetende-slak",
+   "naam": "Slakkenetende Slak",
+   "categorie": "Slakken",
+   "beschrijving": "Geel-bruin gestreepte roofslak uit Zuidoost-Azië die kleine slakken zoals posthoorn- en torenslakken opeet. Schelp circa 2 cm, laat planten met rust.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/10/slakkenetende-slak.png"
+   ],
+   "prijs": "4.10",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Anentome helena",
+    "Herkomst": "Azië",
+    "Familie": "Nassariidae",
+    "Lengte": "2 cm",
+    "Temperatuur": "23,5 °C",
+    "PH-waarde": "6.5 – 8.0",
+    "Dieet": "Carnivoor",
+    "Voeding": "Levend voer, Diepvriesvoer, Rode muggenlarven, Granulaat",
+    "Waterlaag": "Bodem",
+    "Aquarium": "40 cm of groter",
+    "Groep": "Minstens 3 samen"
+   }
+  },
+  {
    "id": "avw-zwaarddrager-israel",
    "url": "https://aquariumvissenwinkel.nl/product/zwaarddrager-israel",
    "naam": "Zwaarddrager Israel Mix Lyretail",
@@ -6147,31 +6172,6 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Midden",
     "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-slakkenetende-slak",
-   "url": "https://aquariumvissenwinkel.nl/product/slakkenetende-slak",
-   "naam": "Slakkenetende Slak",
-   "categorie": "Slakken",
-   "beschrijving": "Geel-bruin gestreepte roofslak uit Zuidoost-Azië die kleine slakken zoals posthoorn- en torenslakken opeet. Schelp circa 2 cm, laat planten met rust.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/10/slakkenetende-slak.png"
-   ],
-   "prijs": "4.10",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Anentome helena",
-    "Herkomst": "Azië",
-    "Familie": "Nassariidae",
-    "Lengte": "2 cm",
-    "Temperatuur": "23,5 °C",
-    "PH-waarde": "6.5 – 8.0",
-    "Dieet": "Carnivoor",
-    "Voeding": "Levend voer, Diepvriesvoer, Rode muggenlarven, Granulaat",
-    "Waterlaag": "Bodem",
-    "Aquarium": "40 cm of groter",
-    "Groep": "Minstens 3 samen"
    }
   },
   {
@@ -7884,6 +7884,31 @@
    }
   },
   {
+   "id": "avw-amano-garnaal",
+   "url": "https://aquariumvissenwinkel.nl/product/amano-garnaal",
+   "naam": "Amanogarnaal",
+   "categorie": "Garnalen",
+   "beschrijving": "De Amano garnaal is een doorzichtige garnaal met roodbruine stippels uit Japan en Taiwan, die in het aquarium ijverig algen afgraast.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/amano-garnaal.png"
+   ],
+   "prijs": "5.45",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Caridina multidentata",
+    "Herkomst": "Azië",
+    "Familie": "Atyidae",
+    "Lengte": "5 cm",
+    "Temperatuur": "22 °C",
+    "PH-waarde": "6.8 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Algen, Granulaat",
+    "Waterlaag": "Bodem",
+    "Aquarium": "60 cm of groter",
+    "Groep": "Minstens 5 samen"
+   }
+  },
+  {
    "id": "avw-apistogramma-hongsloi-red",
    "url": "https://aquariumvissenwinkel.nl/product/apistogramma-hongsloi-red",
    "naam": "Apistogramma hongsloi red",
@@ -8239,6 +8264,30 @@
    }
   },
   {
+   "id": "avw-neon-tetra-voordeelset-10-stuks",
+   "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
+   "naam": "Neon Tetra Voordeelset 10 Stuks",
+   "categorie": "Tetra's",
+   "beschrijving": "Een blauwe lichtstreep met rood op de achterste helft: de neontetra is een van de bekendste scholenvissen. Met deze voordeelset heb je meteen een complete groep, voor een aquarium vanaf 80 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/neon-tetra-innesi.png"
+   ],
+   "prijs": "12.50",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Paracheirodon innesi",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Acestrorhamphidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "6.0 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "80 cm of groter"
+   }
+  },
+  {
    "id": "avw-malawicichlide-crabro",
    "url": "https://aquariumvissenwinkel.nl/product/malawicichlide-crabro",
    "naam": "Malawi Cichlide Crabro",
@@ -8377,30 +8426,6 @@
     "Voeding": "Bodemvuil, Diepvriesvoer, Granulaat",
     "Waterlaag": "Bodem",
     "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-neon-tetra-voordeelset-10-stuks",
-   "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
-   "naam": "Neon Tetra Voordeelset 10 Stuks",
-   "categorie": "Tetra's",
-   "beschrijving": "Een blauwe lichtstreep met rood op de achterste helft: de neontetra is een van de bekendste scholenvissen. Met deze voordeelset heb je meteen een complete groep, voor een aquarium vanaf 80 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/neon-tetra-innesi.png"
-   ],
-   "prijs": "12.50",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Paracheirodon innesi",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Acestrorhamphidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "6.0 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "80 cm of groter"
    }
   },
   {
@@ -10797,31 +10822,6 @@
    }
   },
   {
-   "id": "avw-amano-garnaal",
-   "url": "https://aquariumvissenwinkel.nl/product/amano-garnaal",
-   "naam": "Amanogarnaal",
-   "categorie": "Garnalen",
-   "beschrijving": "De Amano garnaal is een doorzichtige garnaal met roodbruine stippels uit Japan en Taiwan, die in het aquarium ijverig algen afgraast.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/amano-garnaal.png"
-   ],
-   "prijs": "5.45",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Caridina multidentata",
-    "Herkomst": "Azië",
-    "Familie": "Atyidae",
-    "Lengte": "5 cm",
-    "Temperatuur": "22 °C",
-    "PH-waarde": "6.8 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Algen, Granulaat",
-    "Waterlaag": "Bodem",
-    "Aquarium": "60 cm of groter",
-    "Groep": "Minstens 5 samen"
-   }
-  },
-  {
    "id": "avw-corydoras-peru-stripe",
    "url": "https://aquariumvissenwinkel.nl/product/corydoras-peru-stripe",
    "naam": "Corydoras Peru Stripe",
@@ -12044,7 +12044,7 @@
   }
  ],
  "gd_opgehaald": "2026-11-11 16:47",
- "avw_opgehaald": "2026-11-24 16:57",
+ "avw_opgehaald": "2026-11-25 16:43",
  "logboek": [
   {
    "datum": "2026-11-22 14:25",
