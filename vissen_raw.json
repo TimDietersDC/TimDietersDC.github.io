@@ -1,5 +1,5 @@
 {
- "opgehaald": "2026-11-25 21:52",
+ "opgehaald": "2026-11-26 14:51",
  "gd": [
   {
    "id": "gd-87913619",
@@ -3658,6 +3658,30 @@
    }
   },
   {
+   "id": "avw-slak-turrita",
+   "url": "https://aquariumvissenwinkel.nl/product/slak-turrita",
+   "naam": "Slak Turrita",
+   "categorie": "Slakken",
+   "beschrijving": "Een gestreept huisje en een ijverige algeneter die gezonde planten laat staan: dat is de Slak Turrita. Leg wel een dekruit op het aquarium, want deze nerietslak kruipt graag naar buiten.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/Slak-turrita.jpg"
+   ],
+   "prijs": "3.50",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Vittina turrita, voorheen Neritina turrita",
+    "Herkomst": "Azië",
+    "Familie": "Neritidae",
+    "Lengte": "3.5 cm",
+    "Temperatuur": "24 °C",
+    "PH-waarde": "7.2 – 8.2",
+    "Dieet": "Omnivoor",
+    "Voeding": "Algen, Granulaat",
+    "Waterlaag": "Bodem",
+    "Aquarium": "60 cm of groter"
+   }
+  },
+  {
    "id": "avw-corydoras-albino",
    "url": "https://aquariumvissenwinkel.nl/product/corydoras-albino",
    "naam": "Corydoras Albino",
@@ -3680,30 +3704,6 @@
     "Waterlaag": "Bodem",
     "Aquarium": "80 cm of groter",
     "Groep": "Minstens 6 samen"
-   }
-  },
-  {
-   "id": "avw-slak-turrita",
-   "url": "https://aquariumvissenwinkel.nl/product/slak-turrita",
-   "naam": "Slak Turrita",
-   "categorie": "Slakken",
-   "beschrijving": "Een gestreept huisje en een ijverige algeneter die gezonde planten laat staan: dat is de Slak Turrita. Leg wel een dekruit op het aquarium, want deze nerietslak kruipt graag naar buiten.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/Slak-turrita.jpg"
-   ],
-   "prijs": "3.50",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Vittina turrita, voorheen Neritina turrita",
-    "Herkomst": "Azië",
-    "Familie": "Neritidae",
-    "Lengte": "3.5 cm",
-    "Temperatuur": "24 °C",
-    "PH-waarde": "7.2 – 8.2",
-    "Dieet": "Omnivoor",
-    "Voeding": "Algen, Granulaat",
-    "Waterlaag": "Bodem",
-    "Aquarium": "60 cm of groter"
    }
   },
   {
@@ -4817,6 +4817,30 @@
    }
   },
   {
+   "id": "avw-diamant-gourami-pair",
+   "url": "https://aquariumvissenwinkel.nl/product/diamant-gourami-pair",
+   "naam": "Diamant Gourami",
+   "categorie": "Labyrintvissen",
+   "beschrijving": "Een parelmoerglans van talloze lichte stippen maakt deze goerami bijzonder. Een van de vreedzaamste goerami’s, voor een beplant aquarium vanaf 90 cm met schuilplekken.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/diamant-gourami-pair.png"
+   ],
+   "prijs": "8.40",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Trichopodus leerii",
+    "Herkomst": "Azië",
+    "Familie": "Osphronemidae",
+    "Lengte": "12 cm",
+    "Temperatuur": "25 °C",
+    "PH-waarde": "6.5 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "90 cm of groter"
+   }
+  },
+  {
    "id": "avw-guppy-man-israel-metallic-blue-neon",
    "url": "https://aquariumvissenwinkel.nl/product/guppy-man-israel-metallic-blue-neon",
    "naam": "Guppy Man Israel Metallic Blue Neon",
@@ -4889,6 +4913,54 @@
    }
   },
   {
+   "id": "avw-gupman-mix",
+   "url": "https://aquariumvissenwinkel.nl/product/gupman-mix",
+   "naam": "Guppy Man Mix",
+   "categorie": "Guppen",
+   "beschrijving": "Geen twee hetzelfde: een gemengde selectie guppymannen in allerlei kleuren. Een mannengroep is vreedzaam, makkelijk en geeft geen jongen, in een aquarium vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/gupman_male_mix.jpg"
+   ],
+   "prijs": "3.70",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Poecilia reticulata",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Poeciliidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "7.0 – 8.0",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Boven",
+    "Aquarium": "60 cm of groter"
+   }
+  },
+  {
+   "id": "avw-gupman-israel-green-cobra",
+   "url": "https://aquariumvissenwinkel.nl/product/gupman-israel-green-cobra",
+   "naam": "Guppy Man Israel Green Cobra",
+   "categorie": "Guppen",
+   "beschrijving": "Uit Israëlische kweek, met een groen slangenhuidpatroon over lijf en staart. Deze guppyman is makkelijk, vreedzaam en voelt zich thuis bij soortgenoten, vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/gupman-israel-green-cobra-1.png"
+   ],
+   "prijs": "4.25",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Poecilia reticulata",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Poeciliidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "7.0 – 8.0",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Boven",
+    "Aquarium": "60 cm of groter"
+   }
+  },
+  {
    "id": "avw-otocinclus-arnoldi",
    "url": "https://aquariumvissenwinkel.nl/product/otocinclus-arnoldi",
    "naam": "Otocinclus Arnoldi",
@@ -4911,30 +4983,6 @@
     "Waterlaag": "Bodem",
     "Aquarium": "60 cm of groter",
     "Groep": "Minstens 6 samen"
-   }
-  },
-  {
-   "id": "avw-diamant-gourami-pair",
-   "url": "https://aquariumvissenwinkel.nl/product/diamant-gourami-pair",
-   "naam": "Diamant Gourami",
-   "categorie": "Labyrintvissen",
-   "beschrijving": "Een parelmoerglans van talloze lichte stippen maakt deze goerami bijzonder. Een van de vreedzaamste goerami’s, voor een beplant aquarium vanaf 90 cm met schuilplekken.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/diamant-gourami-pair.png"
-   ],
-   "prijs": "8.40",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Trichopodus leerii",
-    "Herkomst": "Azië",
-    "Familie": "Osphronemidae",
-    "Lengte": "12 cm",
-    "Temperatuur": "25 °C",
-    "PH-waarde": "6.5 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "90 cm of groter"
    }
   },
   {
@@ -5009,54 +5057,6 @@
     "Waterlaag": "Midden",
     "Aquarium": "80 cm of groter",
     "Groep": "Minstens 6 samen"
-   }
-  },
-  {
-   "id": "avw-gupman-mix",
-   "url": "https://aquariumvissenwinkel.nl/product/gupman-mix",
-   "naam": "Guppy Man Mix",
-   "categorie": "Guppen",
-   "beschrijving": "Geen twee hetzelfde: een gemengde selectie guppymannen in allerlei kleuren. Een mannengroep is vreedzaam, makkelijk en geeft geen jongen, in een aquarium vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/gupman_male_mix.jpg"
-   ],
-   "prijs": "3.70",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Poecilia reticulata",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Poeciliidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "7.0 – 8.0",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Boven",
-    "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-gupman-israel-green-cobra",
-   "url": "https://aquariumvissenwinkel.nl/product/gupman-israel-green-cobra",
-   "naam": "Guppy Man Israel Green Cobra",
-   "categorie": "Guppen",
-   "beschrijving": "Uit Israëlische kweek, met een groen slangenhuidpatroon over lijf en staart. Deze guppyman is makkelijk, vreedzaam en voelt zich thuis bij soortgenoten, vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/gupman-israel-green-cobra-1.png"
-   ],
-   "prijs": "4.25",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Poecilia reticulata",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Poeciliidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "7.0 – 8.0",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Boven",
-    "Aquarium": "60 cm of groter"
    }
   },
   {
@@ -5669,6 +5669,31 @@
    }
   },
   {
+   "id": "avw-kardinaal-tetra-voordeelset-10-stuks",
+   "url": "https://aquariumvissenwinkel.nl/product/kardinaal-tetra-voordeelset-10-stuks",
+   "naam": "Kardinaal Tetra Voordeelset 10 Stuks",
+   "categorie": "Tetra's",
+   "beschrijving": "De kardinaaltetra draagt een neonblauwe streep boven een felrode buik. Met deze voordeelset heb je er meteen meerdere, voor een aquarium vanaf 80 cm met licht zuur water.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/Kardinaal-Tetra.png",
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/kardinaal_tetra.png"
+   ],
+   "prijs": "20.00",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Paracheirodon axelrodi",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Acestrorhamphidae",
+    "Lengte": "5 cm",
+    "Temperatuur": "25 °C",
+    "PH-waarde": "5.5 – 7",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "80 cm of groter"
+   }
+  },
+  {
    "id": "avw-colisa-lalia",
    "url": "https://aquariumvissenwinkel.nl/product/colisa-lalia",
    "naam": "Dwerg Gourami",
@@ -5838,31 +5863,6 @@
     "Waterlaag": "Midden",
     "Aquarium": "240 cm of groter",
     "Groep": "Minstens 5 samen"
-   }
-  },
-  {
-   "id": "avw-kardinaal-tetra-voordeelset-10-stuks",
-   "url": "https://aquariumvissenwinkel.nl/product/kardinaal-tetra-voordeelset-10-stuks",
-   "naam": "Kardinaal Tetra Voordeelset 10 Stuks",
-   "categorie": "Tetra's",
-   "beschrijving": "De kardinaaltetra draagt een neonblauwe streep boven een felrode buik. Met deze voordeelset heb je er meteen meerdere, voor een aquarium vanaf 80 cm met licht zuur water.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/Kardinaal-Tetra.png",
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/kardinaal_tetra.png"
-   ],
-   "prijs": "20.00",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Paracheirodon axelrodi",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Acestrorhamphidae",
-    "Lengte": "5 cm",
-    "Temperatuur": "25 °C",
-    "PH-waarde": "5.5 – 7",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "80 cm of groter"
    }
   },
   {
@@ -6598,6 +6598,30 @@
    }
   },
   {
+   "id": "avw-marmer-gourami",
+   "url": "https://aquariumvissenwinkel.nl/product/marmer-gourami",
+   "naam": "Marmer Gourami",
+   "categorie": "Labyrintvissen",
+   "beschrijving": "Een labyrintvis van 12 cm, blauw met een donkere marmering. Mannetjes kunnen fel territoriaal worden, dus kies robuuste medebewoners en een bak vanaf 100 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/marmer-gourami.png"
+   ],
+   "prijs": "9.40",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Trichopodus trichopterus",
+    "Herkomst": "Azië",
+    "Familie": "Osphronemidae",
+    "Lengte": "15 cm",
+    "Temperatuur": "25 °C",
+    "PH-waarde": "7.0 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "100 cm of groter"
+   }
+  },
+  {
    "id": "avw-ballon-molly-lyretail-mix",
    "url": "https://aquariumvissenwinkel.nl/product/ballon-molly-lyretail-mix",
    "naam": "Ballon Molly Lyretail Mix",
@@ -7059,30 +7083,6 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Midden",
     "Aquarium": "120 cm of groter"
-   }
-  },
-  {
-   "id": "avw-marmer-gourami",
-   "url": "https://aquariumvissenwinkel.nl/product/marmer-gourami",
-   "naam": "Marmer Gourami",
-   "categorie": "Labyrintvissen",
-   "beschrijving": "Een labyrintvis van 12 cm, blauw met een donkere marmering. Mannetjes kunnen fel territoriaal worden, dus kies robuuste medebewoners en een bak vanaf 100 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/05/marmer-gourami.png"
-   ],
-   "prijs": "9.40",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Trichopodus trichopterus",
-    "Herkomst": "Azië",
-    "Familie": "Osphronemidae",
-    "Lengte": "15 cm",
-    "Temperatuur": "25 °C",
-    "PH-waarde": "7.0 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "100 cm of groter"
    }
   },
   {
@@ -8198,6 +8198,30 @@
    }
   },
   {
+   "id": "avw-gupman-lyretail",
+   "url": "https://aquariumvissenwinkel.nl/product/gupman-lyretail",
+   "naam": "Guppy Man Lyretail",
+   "categorie": "Guppen",
+   "beschrijving": "Bij dit guppymannetje lopen de boven- en onderkant van de staart uit in punten, als een lier. Een actieve, vreedzame vis voor een aquarium vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/gupman_israel_lyretail.png"
+   ],
+   "prijs": "4.00",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Poecilia reticulata",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Poeciliidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "7.0 – 8.0",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Boven",
+    "Aquarium": "60 cm of groter"
+   }
+  },
+  {
    "id": "avw-guppy-man-gold-yellow-tuxedo",
    "url": "https://aquariumvissenwinkel.nl/product/guppy-man-gold-yellow-tuxedo",
    "naam": "Guppy Man Gold Yellow Tuxedo",
@@ -8410,30 +8434,6 @@
     "Waterlaag": "Midden",
     "Aquarium": "120 cm of groter",
     "Groep": "Minstens 5 samen"
-   }
-  },
-  {
-   "id": "avw-gupman-lyretail",
-   "url": "https://aquariumvissenwinkel.nl/product/gupman-lyretail",
-   "naam": "Guppy Man Lyretail",
-   "categorie": "Guppen",
-   "beschrijving": "Bij dit guppymannetje lopen de boven- en onderkant van de staart uit in punten, als een lier. Een actieve, vreedzame vis voor een aquarium vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/gupman_israel_lyretail.png"
-   ],
-   "prijs": "4.00",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Poecilia reticulata",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Poeciliidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "7.0 – 8.0",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Boven",
-    "Aquarium": "60 cm of groter"
    }
   },
   {
@@ -8684,6 +8684,30 @@
     "Voeding": "Levend voer, Diepvriesvoer, Granulaat, Algen",
     "Waterlaag": "Midden",
     "Aquarium": "100 cm of groter"
+   }
+  },
+  {
+   "id": "avw-guppy-man-half-black-yellow-delta",
+   "url": "https://aquariumvissenwinkel.nl/product/guppy-man-half-black-yellow-delta",
+   "naam": "Guppy Man Half Black Yellow Delta",
+   "categorie": "Guppen",
+   "beschrijving": "Guppy met een gitzwarte achterhelft en een brede gele deltastaart. Een levendige bovenzwemmer voor een bak vanaf 60 cm, die zich tussen soortgenoten het prettigst voelt.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/09/guppy-man-half-black-yellow-delta.png"
+   ],
+   "prijs": "3.25",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Poecilia reticulata",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Poeciliidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "7.0 – 8.0",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
+    "Waterlaag": "Boven",
+    "Aquarium": "60 cm of groter"
    }
   },
   {
@@ -8938,6 +8962,27 @@
    }
   },
   {
+   "id": "avw-sera-guppy-granules-100-ml",
+   "url": "https://aquariumvissenwinkel.nl/product/sera-guppy-granules-100-ml",
+   "naam": "Sera Guppy Granules 100 ml",
+   "categorie": "Visvoer",
+   "beschrijving": "Sera Guppy Granules, 100 ml.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/sera-guppy-granules-100-ml.jpg"
+   ],
+   "prijs": "5.59",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Voor": "Levendbarenden",
+    "Vorm": "Granulaat",
+    "Zinkt of drijft": "Langzaam zinkend",
+    "Soort voer": "Hoofdvoer",
+    "Samenstelling": "Gemengd",
+    "Merk": "Sera",
+    "Inhoud": "100 ml"
+   }
+  },
+  {
    "id": "avw-rubber-pleco",
    "url": "https://aquariumvissenwinkel.nl/product/rubber-pleco",
    "naam": "Rubber Pleco",
@@ -8959,30 +9004,6 @@
     "Voeding": "Algen, Diepvriesvoer, Rode muggenlarven, Granulaat",
     "Waterlaag": "Bodem",
     "Aquarium": "120 cm of groter"
-   }
-  },
-  {
-   "id": "avw-guppy-man-half-black-yellow-delta",
-   "url": "https://aquariumvissenwinkel.nl/product/guppy-man-half-black-yellow-delta",
-   "naam": "Guppy Man Half Black Yellow Delta",
-   "categorie": "Guppen",
-   "beschrijving": "Guppy met een gitzwarte achterhelft en een brede gele deltastaart. Een levendige bovenzwemmer voor een bak vanaf 60 cm, die zich tussen soortgenoten het prettigst voelt.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/09/guppy-man-half-black-yellow-delta.png"
-   ],
-   "prijs": "3.25",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Poecilia reticulata",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Poeciliidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "7.0 – 8.0",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
-    "Waterlaag": "Boven",
-    "Aquarium": "60 cm of groter"
    }
   },
   {
@@ -9790,27 +9811,6 @@
     "Samenstelling": "Gemengd",
     "Merk": "Sera",
     "Inhoud": "250 ml"
-   }
-  },
-  {
-   "id": "avw-sera-guppy-granules-100-ml",
-   "url": "https://aquariumvissenwinkel.nl/product/sera-guppy-granules-100-ml",
-   "naam": "Sera Guppy Granules 100 ml",
-   "categorie": "Visvoer",
-   "beschrijving": "Sera Guppy Granules, 100 ml.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/sera-guppy-granules-100-ml.jpg"
-   ],
-   "prijs": "5.59",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Voor": "Levendbarenden",
-    "Vorm": "Granulaat",
-    "Zinkt of drijft": "Langzaam zinkend",
-    "Soort voer": "Hoofdvoer",
-    "Samenstelling": "Gemengd",
-    "Merk": "Sera",
-    "Inhoud": "100 ml"
    }
   },
   {
@@ -11930,7 +11930,7 @@
   }
  ],
  "gd_opgehaald": "2026-11-25 21:52",
- "avw_opgehaald": "2026-11-25 21:52",
+ "avw_opgehaald": "2026-11-26 14:51",
  "logboek": [
   {
    "datum": "2026-11-25 21:52",
