@@ -1,5 +1,5 @@
 {
- "opgehaald": "2026-11-26 16:37",
+ "opgehaald": "2026-11-27 16:12",
  "gd": [
   {
    "id": "gd-87913619",
@@ -3749,6 +3749,31 @@
    }
   },
   {
+   "id": "avw-galaxy-rasbora",
+   "url": "https://aquariumvissenwinkel.nl/product/galaxy-rasbora",
+   "naam": "Galaxy Rasbora",
+   "categorie": "Danio's",
+   "beschrijving": "Parelwitte stippen op een donker lijf en oranje vinnen met zwarte strepen: een schuw nanovisje. Houd ze in een groep in een beplante bak vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/rasboragalaxy.png"
+   ],
+   "prijs": "6.80",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Danio margaritatus",
+    "Herkomst": "Azië",
+    "Familie": "Danionidae",
+    "Lengte": "3.5 cm",
+    "Temperatuur": "22 °C",
+    "PH-waarde": "7.0 – 7.5",
+    "Dieet": "Carnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Midden",
+    "Aquarium": "60 cm of groter",
+    "Groep": "Minstens 10 samen"
+   }
+  },
+  {
    "id": "avw-chinese-danio-lf",
    "url": "https://aquariumvissenwinkel.nl/product/chinese-danio-lf",
    "naam": "Chinese Danio Lf",
@@ -3917,31 +3942,6 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer",
     "Waterlaag": "Middenonder",
     "Aquarium": "120 cm of groter"
-   }
-  },
-  {
-   "id": "avw-galaxy-rasbora",
-   "url": "https://aquariumvissenwinkel.nl/product/galaxy-rasbora",
-   "naam": "Galaxy Rasbora",
-   "categorie": "Danio's",
-   "beschrijving": "Parelwitte stippen op een donker lijf en oranje vinnen met zwarte strepen: een schuw nanovisje. Houd ze in een groep in een beplante bak vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/rasboragalaxy.png"
-   ],
-   "prijs": "6.80",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Danio margaritatus",
-    "Herkomst": "Azië",
-    "Familie": "Danionidae",
-    "Lengte": "3.5 cm",
-    "Temperatuur": "22 °C",
-    "PH-waarde": "7.0 – 7.5",
-    "Dieet": "Carnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Midden",
-    "Aquarium": "60 cm of groter",
-    "Groep": "Minstens 10 samen"
    }
   },
   {
@@ -4865,7 +4865,7 @@
    "fotos": [
     "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/02/cambarellus_patzcuarensis_sp._orange_2.jpg"
    ],
-   "prijs": "14.35",
+   "prijs": "13.20",
    "voorraad": "InStock",
    "eigenschappen": {
     "Latijnse naam": "Cambarellus patzcuarensis",
@@ -7271,6 +7271,30 @@
    }
   },
   {
+   "id": "avw-apistogramma-cacatuoides",
+   "url": "https://aquariumvissenwinkel.nl/product/apistogramma-cacatuoides",
+   "naam": "Apistogramma Cacatuoides",
+   "categorie": "Dwergcichliden",
+   "beschrijving": "Dwergcichlide met lange vinnen, ook wel kakadu-dwergcichlide genoemd. Mannen worden 7,5 cm, vrouwen 5 cm. Past met één koppel in een bak vanaf 60 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/apistogramma-cacatuoides.png"
+   ],
+   "prijs": "6.00",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Apistogramma cacatuoides",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Cichlidae",
+    "Lengte": "7.5 cm",
+    "Temperatuur": "26 °C",
+    "PH-waarde": "6.0 – 7.5",
+    "Dieet": "Carnivoor",
+    "Voeding": "Diepvriesvoer, Levend voer, Granulaat, Rode muggenlarven",
+    "Waterlaag": "Bodem",
+    "Aquarium": "60 cm of groter"
+   }
+  },
+  {
    "id": "avw-zebra-danio-sluier",
    "url": "https://aquariumvissenwinkel.nl/product/zebra-danio-sluier",
    "naam": "Zebra Danio Sluier",
@@ -7419,6 +7443,30 @@
    }
   },
   {
+   "id": "avw-hypostomus-plecostomus-gold-stripe",
+   "url": "https://aquariumvissenwinkel.nl/product/hypostomus-plecostomus-gold-stripe",
+   "naam": "Hypostomus Plecostomus Gold Stripe",
+   "categorie": "Algeneters",
+   "beschrijving": "Een grote harnasmeerval die tot 35 cm kan worden en ’s nachts actief is. Volwassen neemt hij de bak flink in beslag, dus reken op een aquarium vanaf 150 cm met hout.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/hypostomus-plecostomus-gold-stripe.jpeg"
+   ],
+   "prijs": "8.70",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Hypostomus plecostomus",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Loricariidae",
+    "Lengte": "35 cm",
+    "Temperatuur": "24 °C",
+    "PH-waarde": "6.5 – 8.0",
+    "Dieet": "Herbivoor",
+    "Voeding": "Algen, Bodemvuil, Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Bodem",
+    "Aquarium": "150 cm of groter"
+   }
+  },
+  {
    "id": "avw-dwerg-botia",
    "url": "https://aquariumvissenwinkel.nl/product/dwerg-botia",
    "naam": "Dwerg Botia",
@@ -7441,6 +7489,30 @@
     "Waterlaag": "Bodem",
     "Aquarium": "80 cm of groter",
     "Groep": "Minstens 6 samen"
+   }
+  },
+  {
+   "id": "avw-neon-tetra-voordeelset-10-stuks",
+   "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
+   "naam": "Neon Tetra Voordeelset 10 Stuks",
+   "categorie": "Tetra's",
+   "beschrijving": "Een blauwe lichtstreep met rood op de achterste helft: de neontetra is een van de bekendste scholenvissen. Met deze voordeelset heb je meteen een complete groep, voor een aquarium vanaf 80 cm.",
+   "fotos": [
+    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/neon-tetra-innesi.png"
+   ],
+   "prijs": "12.50",
+   "voorraad": "InStock",
+   "eigenschappen": {
+    "Latijnse naam": "Paracheirodon innesi",
+    "Herkomst": "Zuid-Amerika",
+    "Familie": "Acestrorhamphidae",
+    "Lengte": "4 cm",
+    "Temperatuur": "23 °C",
+    "PH-waarde": "6.0 – 7.5",
+    "Dieet": "Omnivoor",
+    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
+    "Waterlaag": "Middenboven",
+    "Aquarium": "80 cm of groter"
    }
   },
   {
@@ -8000,30 +8072,6 @@
    }
   },
   {
-   "id": "avw-hypostomus-plecostomus-gold-stripe",
-   "url": "https://aquariumvissenwinkel.nl/product/hypostomus-plecostomus-gold-stripe",
-   "naam": "Hypostomus Plecostomus Gold Stripe",
-   "categorie": "Algeneters",
-   "beschrijving": "Een grote harnasmeerval die tot 35 cm kan worden en ’s nachts actief is. Volwassen neemt hij de bak flink in beslag, dus reken op een aquarium vanaf 150 cm met hout.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/03/hypostomus-plecostomus-gold-stripe.jpeg"
-   ],
-   "prijs": "8.70",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Hypostomus plecostomus",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Loricariidae",
-    "Lengte": "35 cm",
-    "Temperatuur": "24 °C",
-    "PH-waarde": "6.5 – 8.0",
-    "Dieet": "Herbivoor",
-    "Voeding": "Algen, Bodemvuil, Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Bodem",
-    "Aquarium": "150 cm of groter"
-   }
-  },
-  {
    "id": "avw-serpaezalm-sluier",
    "url": "https://aquariumvissenwinkel.nl/product/serpaezalm-sluier",
    "naam": "Serpaezalm",
@@ -8139,30 +8187,6 @@
     "Voeding": "Algen, Diepvriesvoer, Granulaat, Levend voer, Rode muggenlarven, Zwarte muggenlarven",
     "Waterlaag": "Middenboven",
     "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-neon-tetra-voordeelset-10-stuks",
-   "url": "https://aquariumvissenwinkel.nl/product/neon-tetra-voordeelset-10-stuks",
-   "naam": "Neon Tetra Voordeelset 10 Stuks",
-   "categorie": "Tetra's",
-   "beschrijving": "Een blauwe lichtstreep met rood op de achterste helft: de neontetra is een van de bekendste scholenvissen. Met deze voordeelset heb je meteen een complete groep, voor een aquarium vanaf 80 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2013/04/neon-tetra-innesi.png"
-   ],
-   "prijs": "12.50",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Paracheirodon innesi",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Acestrorhamphidae",
-    "Lengte": "4 cm",
-    "Temperatuur": "23 °C",
-    "PH-waarde": "6.0 – 7.5",
-    "Dieet": "Omnivoor",
-    "Voeding": "Diepvriesvoer, Granulaat, Levend voer",
-    "Waterlaag": "Middenboven",
-    "Aquarium": "80 cm of groter"
    }
   },
   {
@@ -8326,30 +8350,6 @@
     "PH-waarde": "6.5 – 8.0",
     "Dieet": "Omnivoor",
     "Voeding": "Bodemvuil, Diepvriesvoer, Granulaat",
-    "Waterlaag": "Bodem",
-    "Aquarium": "60 cm of groter"
-   }
-  },
-  {
-   "id": "avw-apistogramma-cacatuoides",
-   "url": "https://aquariumvissenwinkel.nl/product/apistogramma-cacatuoides",
-   "naam": "Apistogramma Cacatuoides",
-   "categorie": "Dwergcichliden",
-   "beschrijving": "Dwergcichlide met lange vinnen, ook wel kakadu-dwergcichlide genoemd. Mannen worden 7,5 cm, vrouwen 5 cm. Past met één koppel in een bak vanaf 60 cm.",
-   "fotos": [
-    "https://backend.aquariumvissenwinkel.nl/wp-content/uploads/2026/11/apistogramma-cacatuoides.png"
-   ],
-   "prijs": "6.00",
-   "voorraad": "InStock",
-   "eigenschappen": {
-    "Latijnse naam": "Apistogramma cacatuoides",
-    "Herkomst": "Zuid-Amerika",
-    "Familie": "Cichlidae",
-    "Lengte": "7.5 cm",
-    "Temperatuur": "26 °C",
-    "PH-waarde": "6.0 – 7.5",
-    "Dieet": "Carnivoor",
-    "Voeding": "Diepvriesvoer, Levend voer, Granulaat, Rode muggenlarven",
     "Waterlaag": "Bodem",
     "Aquarium": "60 cm of groter"
    }
@@ -11922,7 +11922,7 @@
   }
  ],
  "gd_opgehaald": "2026-11-26 16:37",
- "avw_opgehaald": "2026-11-26 16:37",
+ "avw_opgehaald": "2026-11-27 16:12",
  "logboek": [
   {
    "datum": "2026-11-25 21:52",
